@@ -14,7 +14,9 @@ Realiza una tabla de contenido de las vacunas antigripales en 2022 con lo siguie
 4.) Lista de pacientes que muestre si han recibido o no la vacuna
 
 Requerimientos:
-Los pacientes deben estar activos en nuestro hospital
+Los pacientes deben estar activos en nuestro hospital (no tener mas de dos años sin presentase en el hospital)
+El paciente debe tener 6 meses o mas años de edad
+El paciente debe estar vivo
 */ 
 
 
